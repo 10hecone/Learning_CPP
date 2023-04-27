@@ -63,7 +63,7 @@ int main()
 		{
 			break;
 		}
-		else 
+		else
 		{
 			std::cout << "Not found type" << std::endl;
 		}
