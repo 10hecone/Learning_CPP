@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{7d4cdcce-a511-4056-b871-4d9529c9e3a4}</ProjectGuid>
-    <RootNamespace>Learning02Conditionnel</RootNamespace>
+    <ProjectGuid>{5693faf7-ad2a-4982-8b45-afaf051a4d40}</ProjectGuid>
+    <RootNamespace>Learning11RockPaperScissors</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
